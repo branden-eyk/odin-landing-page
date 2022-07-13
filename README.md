@@ -10,4 +10,4 @@ According to Wookiepedia, the original authors of these images are as follows:
 - The "Join the SAGroup" was created by Marko Manev
 - The "Nothing Beats an Academy Education" was created by Steve Thomas
 
-Lastly, the logo for the Galactic Empire at the top of the page was taken from the Wookiepedia page on the Galactic Empire, which is in turn an image originally vector traced by Wookiepedia user Trip from an Watermark on starwars.com. All credits once again go to their rightful owners. 
+Lastly, the logo for the Galactic Empire was taken from Wikipedia, they suggest I can attribute the author properly with the following: By John Mollo - Lucasfilm Ltd., Public Domain, https://commons.wikimedia.org/w/index.php?curid=65445400
